@@ -1,5 +1,6 @@
 EQUIPO 16 -
-VASQUEZ ARAGON ROBERTO CARLOS 
+VASQUEZ ARAGON ROBERTO CARLOS -
+VARGAS GOMEZ ALAN 
 COMPONENTE - CAPTCHA DE VERIFICACION 
 
  - Descarga del Proyecto: Primero, baja el archivo comprimido en formato ZIP desde el repositorio.
