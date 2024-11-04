@@ -1,3 +1,7 @@
+EQUIPO 16 -
+VASQUEZ ARAGON ROBERTO CARLOS 
+COMPONENTE - CAPTCHA DE VERIFICACION 
+
 PANORAMA GENERAL DEL CODIGO:
 1.	Constructor de la Clase: El constructor Captcha() inicializa los componentes del formulario y oculta el elemento lblDone.
    
@@ -187,4 +191,9 @@ private void btnCambiar4ActionPerformed(java.awt.event.ActionEvent evt) {
 ![Imagen5](https://github.com/user-attachments/assets/f3cf218e-ea25-4c67-adc5-9ab0028d033a)
 
 VIDEO DEL FUNCIONAMIENTO
+
+
+https://github.com/user-attachments/assets/100dd021-0af7-4537-b76e-4fad7a75409b
+
+
 
