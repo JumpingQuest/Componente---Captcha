@@ -2,6 +2,23 @@ EQUIPO 16 -
 VASQUEZ ARAGON ROBERTO CARLOS 
 COMPONENTE - CAPTCHA DE VERIFICACION 
 
+ - Descarga del Proyecto: Primero, baja el archivo comprimido en formato ZIP desde el repositorio.
+
+- Importar el Proyecto en NetBeans: Abre NetBeans, dirígete al menú "File" y selecciona "Import Project." Luego, elige "From ZIP...". Verás una ventana emergente; en el campo "ZIP File," haz clic en "Browse" y localiza el archivo ZIP descargado. Para finalizar, haz clic en "Import."
+
+- Limpieza y Construcción del Proyecto: Una vez importado el proyecto, haz clic derecho sobre su nombre en el panel de proyectos y selecciona "Clean and Build." Este proceso generará un archivo .JAR. Para confirmar su ubicación, revisa el apartado "Output" en la parte inferior de NetBeans, y anota la ruta donde se guardó.
+
+- Agregar el Componente a la Paleta: En NetBeans, ve al menú "Tools" y selecciona "Palette." A continuación, elige "Swing/AWT Components." En la ventana que se abrirá, selecciona "Add from JAR..." y localiza el archivo .JAR generado. Haz clic en "Next," selecciona el componente "Conectar" y luego nuevamente en "Next."
+
+- Configurar la Paleta: Ahora, elige la categoría donde deseas que el nuevo componente aparezca en la Palette y haz clic en "Finish." Si todo se ha hecho correctamente, el componente debería estar visible en la sección "Palette" cuando crees un nuevo JForm.
+
+- NOTA: Para un correcto funcinoamiento es necesario agregar a la libreria el archivo Absolute layout
+  ![Imagen7](https://github.com/user-attachments/assets/eb949a33-f3ce-429c-aba6-4fbe8b0170e7)
+
+	![Imagen6](https://github.com/user-attachments/assets/c92b9416-7f99-4d37-a367-c2aca99e143b)
+
+
+
 PANORAMA GENERAL DEL CODIGO:
 1.	Constructor de la Clase: El constructor Captcha() inicializa los componentes del formulario y oculta el elemento lblDone.
    
